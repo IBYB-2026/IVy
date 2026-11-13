@@ -1,0 +1,44 @@
+{
+  "name": "IVy — আপনার স্মার্ট ডিজিটাল ওয়ালেট",
+  "short_name": "IVy",
+  "description": "লাইভ ব্যালেন্স, দৈনিক টাস্ক, রেফারেল ও লাকি স্পিন এক জায়গায়।",
+  "lang": "bn",
+  "dir": "ltr",
+  "id": "/IVy/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fc",
+  "theme_color": "#0b1230",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "finance",
+    "productivity"
+  ]
+}
